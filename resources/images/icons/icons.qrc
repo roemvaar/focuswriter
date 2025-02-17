@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file alias="focuswriter.png">hicolor/256x256/apps/focuswriter.png</file>
+</qresource>
+</RCC>
